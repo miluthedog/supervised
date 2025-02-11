@@ -1,8 +1,12 @@
-*\.csv
+# spawned out of nowhere
 *\.ipynb_checkpoints
-*.pt
 
+# datasets
+*\.csv
 *\runs
 *\test
 *\train
 *\valid
+
+# models
+*\yolo11n.pt
