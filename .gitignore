@@ -1,5 +1,6 @@
 *\.csv
 *\.ipynb_checkpoints
+*.pt
 
 *\runs
 *\test

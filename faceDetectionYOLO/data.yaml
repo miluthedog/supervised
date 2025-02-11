@@ -1,6 +1,6 @@
-train: D:\Pha hust\Mechatronics Engineering\random code\random Py\AItraining\2facedetectYOLO\train
-val: D:\Pha hust\Mechatronics Engineering\random code\random Py\AItraining\2facedetectYOLO\valid
-test: D:\Pha hust\Mechatronics Engineering\random code\random Py\AItraining\2facedetectYOLO\test
+train: D:\Pha hust\Mechatronics Engineering\random code\random Py\AItraining\Supervised\faceDetectionYOLO\train
+val: D:\Pha hust\Mechatronics Engineering\random code\random Py\AItraining\Supervised\faceDetectionYOLO\valid
+test: D:\Pha hust\Mechatronics Engineering\random code\random Py\AItraining\Supervised\faceDetectionYOLO\test
 
 nc: 1
 names: ['Pha']
