@@ -1,0 +1,13 @@
+train: D:\Pha hust\Mechatronics Engineering\random code\random Py\AItraining\2facedetectYOLO\train
+val: D:\Pha hust\Mechatronics Engineering\random code\random Py\AItraining\2facedetectYOLO\valid
+test: D:\Pha hust\Mechatronics Engineering\random code\random Py\AItraining\2facedetectYOLO\test
+
+nc: 1
+names: ['Pha']
+
+roboflow:
+  workspace: pha-ugjce
+  project: phadetect
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/pha-ugjce/phadetect/dataset/1
