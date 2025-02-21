@@ -35,7 +35,7 @@ class testmeomeo:
 
 
 if __name__ == "__main__":
-    testmeomeo('1catClassification/meomeo.keras', 0, 0.5)
+    testmeomeo('catClassificationKeras/meomeo.keras', 0, 0.5)
 
 # input:
     # model_path: path to model

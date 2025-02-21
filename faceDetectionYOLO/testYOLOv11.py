@@ -39,7 +39,7 @@ class testYOLO:
 
 
 if __name__ == "__main__":
-    testYOLO('2facedetectYOLO/best.pt', 0, 0.7)
+    testYOLO('faceDetectionYOLO/best.pt', 0, 0.7)
 
 # input:
     # model_path: path to model
