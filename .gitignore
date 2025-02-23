@@ -1,9 +1,12 @@
 # spawned out of nowhere
 *\.ipynb_checkpoints
+*\runs
+
 
 # datasets
 *\.csv
-*\runs
+*\.xlsx
+
 *\test
 *\train
 *\valid

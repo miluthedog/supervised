@@ -37,7 +37,9 @@ class testmeomeo:
 if __name__ == "__main__":
     testmeomeo('catClassificationKeras/meomeo.keras', 0, 0.5)
 
-# input:
-    # model_path: path to model
-    # camera_index: default camera = 0
-    # threshold: confidence required
+'''
+input:
+model_path: path to model
+camera_index: default camera = 0
+threshold: confidence required
+'''
